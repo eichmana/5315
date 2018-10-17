@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "SKU": "19678",
+      "Description": "Midweight Tee",
+      "Vendor": "Punkook",
+      "Cost": "$10.76",
+      "Department": "Baselayer",
+      "Season": "S19"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "SKU": "20425",
+      "Description": "Rainier Jacket",
+      "Vendor": "Sportcity",
+      "Cost": "$18.55",
+      "Department": "Outerwear",
+      "Season": "S19"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "SKU": "20689",
+      "Description": "650 Down Jacket",
+      "Vendor": "Sportcity",
+      "Cost": "$24.99",
+      "Department": "Outerwear",
+      "Season": "S19"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "SKU": "19654",
+      "Description": "Logo Tee",
+      "Vendor": "Prana",
+      "Cost": "$8.75",
+      "Department": "Basics",
+      "Season": "S19"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "SKU": "18765",
+      "Description": "Kingdom 6",
+      "Vendor": "Jasper",
+      "Cost": "$35.67",
+      "Department": "Tents",
+      "Season": "S19"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "SKU": "18745",
+      "Description": "Joule",
+      "Vendor": "Jasper",
+      "Cost": "$26.89",
+      "Department": "Sleeping Bags",
+      "Season": "S19"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "SKU": "20599",
+      "Description": "Trench",
+      "Vendor": "Youngone",
+      "Cost": "$6.79",
+      "Department": "Menswear",
+      "Season": "S19"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "SKU": "30888",
+      "Description": "Campaign Tee",
+      "Vendor": "Prodept",
+      "Cost": "$4.87",
+      "Department": "Basics",
+      "Season": "S19"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "SKU": "36890",
+      "Description": "Rain Jacket",
+      "Vendor": "Youngone",
+      "Cost": "$26.99",
+      "Department": "Outerwear",
+      "Season": "S19"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "SKU": "28652",
+      "Description": "Kingdom 8",
+      "Vendor": "Jasper",
+      "Cost": "$43.96",
+      "Department": "Tents",
+      "Season": "S19"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "SKU": "28745",
+      "Description": "Intrepid Shirt",
+      "Vendor": "Kuhl",
+      "Cost": "$21.84",
+      "Department": "Basics",
+      "Season": "S19"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "SKU": "37864",
+      "Description": "Step Shirt",
+      "Vendor": "Patagonia",
+      "Cost": "$32.99",
+      "Department": "Garage",
+      "Season": "F18"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "SKU": "87342",
+      "Description": "Sahara Shirt",
+      "Vendor": "Marble",
+      "Cost": "$21.43",
+      "Department": "Womenswear",
+      "Season": "S19"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "SKU": "37892",
+      "Description": "Sahara Pant",
+      "Vendor": "Marble",
+      "Cost": "$23.46",
+      "Department": "Womenswear",
+      "Season": "S19"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "SKU": "27034",
+      "Description": "Sahara Pant",
+      "Vendor": "Marble",
+      "Cost": "$18.74",
+      "Department": "Garage",
+      "Season": "F18"
     }
   ]
 }
